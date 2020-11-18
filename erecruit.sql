@@ -1,4 +1,4 @@
-DROP DATABASE erecruit;
+DROP DATABASE erecruit; 
 CREATE DATABASE erecruit;
 USE erecruit;
 
